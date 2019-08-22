@@ -9,7 +9,7 @@ public class TP3Ejercicio03 {
 
         String [][] Personas = new String[3][3];
 
-        //Cargar la matriz
+        //Cargar la matriz con datos de las personas
         for (int i=0; i<3; i++){
             System.out.println("Ingrese Persona numero "+ (i+1));
             System.out.println("(Nombre - Dni - Edad):");
@@ -18,7 +18,7 @@ public class TP3Ejercicio03 {
             }
         }
 
-        //Ordenamiento por orden alfabetico
+        //Ordenar por orden alfabetico
         for (int x=0; x<3-1; x++){
             for (int y=x+1; y<3; y++){
                 if (Personas[0][x].compareTo(Personas[0][y])>0){
