@@ -2,7 +2,7 @@ package TPN2;
 
 import java.util.Scanner;
 
-public class tpN2Ejercio1 {
+public class tpN2Ejercicio1 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
