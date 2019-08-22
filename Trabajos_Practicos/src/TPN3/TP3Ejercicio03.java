@@ -19,8 +19,8 @@ public class TP3Ejercicio03 {
         }
 
         //Ordenamiento por orden alfabetico
-        for (int x=0;   x<3-1;    x++){
-            for (int y=x+1;   y<3;    y++){
+        for (int x=0; x<3-1; x++){
+            for (int y=x+1; y<3; y++){
                 if (Personas[0][x].compareTo(Personas[0][y])>0){
                     for (int z=0; z<3; z++){
                         String aux = Personas[z][x];
