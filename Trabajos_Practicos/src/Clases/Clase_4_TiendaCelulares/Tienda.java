@@ -1,4 +1,6 @@
-package Clase4_TiendaCelulares;
+package Clases.Clase_4_TiendaCelulares;
+
+import Clases.Clase_4_TiendaCelulares.Movil;
 
 import java.util.Scanner;
 

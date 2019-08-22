@@ -1,4 +1,4 @@
-package Clase4_TiendaCelulares;
+package Clases.Clase_4_TiendaCelulares;
 
 public class Movil {
     private int tamanioPantalla;
