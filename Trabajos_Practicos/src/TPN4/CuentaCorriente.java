@@ -35,16 +35,17 @@ public class CuentaCorriente {
         this.numeroCuenta = numeroCuenta;
     }
 
+
     public void ingreso(double cantidad) {
         this.saldo = this.saldo + cantidad;
     }
 
     public void reintegro(double cantidad) {
-        ingreso(cantidad);
+        this.saldo = this.saldo - cantidad;
     }
 
     public void mostrarSaldo() {
-        System.out.println("Saldo: $" + this.saldo);
+        System.out.println("Saldo: $" + this.getSaldo());
     }
 
     public void mostrarDatos() {
@@ -56,11 +57,13 @@ public class CuentaCorriente {
 
     public void transferencia(double cantidad, CuentaCorriente cuentaEmisor, CuentaCorriente cuentaDestino) {
         if (cuentaEmisor.getSaldo() > cantidad) {
-            cuentaEmisor.saldo -= cantidad;
+            cuentaEmisor.setSaldo(cuentaEmisor.getSaldo() - cantidad);
             cuentaDestino.ingreso(cantidad);
         } else {
             System.out.println("Saldo insuficiente");
         }
     }
+
+
 
 }
