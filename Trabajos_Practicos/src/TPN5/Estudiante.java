@@ -33,5 +33,5 @@ public class Estudiante {
     public void setNotaMedia(double notaMedia) {
         this.notaMedia = notaMedia;
     }
-
+    
 }
