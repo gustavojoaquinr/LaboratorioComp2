@@ -12,7 +12,7 @@ public class Principal {
             cantidad = sc.nextInt();
             System.out.println("Ingrese la longitud de las contraseñas: ");
             longitud = sc.nextInt();
-            if(cantidad<1){
+            if(cantidad < 1){
                 System.out.println("Error. La cantidad de contraseñas es invalida");
             }
             if(longitud < 1 ){
