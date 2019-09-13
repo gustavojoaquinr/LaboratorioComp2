@@ -5,7 +5,7 @@ public class CreadorContrasenas {
     public int longitud;
     //caracteres para crear las contraseñas
     String[] minus_mayus_num = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z",
-            "A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P", "Q","R","S","T","U","V","W","X","Y","Z",
+            "A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z",
             "0","1","2","3","4","5","6","7","8","9"};
 
     public CreadorContrasenas (int cantidad, int longitud) {
@@ -25,14 +25,14 @@ public class CreadorContrasenas {
     public void GenerarContrasenas() {
         for (int i=0; i < arrayContrasenas.length; i++) {
             arrayContrasenas[i] = "";
-            for(int j=1; j <= this.longitud; j++) {
+            for (int j=1; j <= this.longitud; j++) {
                 arrayContrasenas[i] = arrayContrasenas[i] + minus_mayus_num[(int)(Math.random()*61)];
             }
         }
     }
 
     //Metodo que evalua si es segura la contraseña
-    private void EvaluarContrasena(String contrasena) {
+    private void EvaluarContrasenas(String contrasena) {
         int mayusculas=0, minusculas=0, numeros=0;
         for (int i=0; i<longitud; i++) {
             if (contrasena.charAt(i) >= 'A' && contrasena.charAt(i) <='Z') {
@@ -56,7 +56,7 @@ public class CreadorContrasenas {
         for (int i=0; i<arrayContrasenas.length; i++) {
             System.out.println("Contraseña: "+arrayContrasenas[i]);
             System.out.println("n° de caracteres: "+this.longitud);
-            EvaluarContrasena(arrayContrasenas[i]);
+            EvaluarContrasenas(arrayContrasenas[i]);
             System.out.println("-----------------------");
         }
     }
