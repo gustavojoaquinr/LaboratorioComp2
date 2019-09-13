@@ -25,7 +25,7 @@ public class Principal {
         CreadorContrasenas contra = new CreadorContrasenas(cantidad, longitud);
         //Crear, Mostrar y Evaluar Contraseñas
         contra.GenerarContrasenas();
-        contra.MostraryEvaluar();
+        contra.Mostrar();
     }
 
 }
