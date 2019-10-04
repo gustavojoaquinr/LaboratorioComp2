@@ -48,13 +48,13 @@ public class Coche implements Vehiculo {
     }
 
     @Override
-    public int getvelocidad(){
+    public int obtenerVelocidad(){
         return velocidad;
     }
 
     @Override
     public void mostrarVelocidad() {
-        System.out.println("La velocidad actual es de: "+getvelocidad()+" km/h");
+        System.out.println("La velocidad actual es de: "+obtenerVelocidad()+" km/h");
     }
 
 }

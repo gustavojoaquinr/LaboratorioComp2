@@ -48,7 +48,7 @@ public class Moto implements Vehiculo{
                 this.velocidad -= frenoTrasero;
             }
             if(this.velocidad < 0){
-                System.out.println("No es posible frenar mas");
+                System.out.println("No se puede frenar mas");
                 this.velocidad=0;
             }
         }
@@ -66,12 +66,12 @@ public class Moto implements Vehiculo{
     }
 
     @Override
-    public int getvelocidad() {
+    public int obtenerVelocidad() {
         return this.velocidad;
     }
 
     @Override
     public void mostrarVelocidad() {
-        System.out.println("La velocidad actual es de: "+getvelocidad()+" km/h");
+        System.out.println("La velocidad actual es de: "+obtenerVelocidad()+" km/h");
     }
 }

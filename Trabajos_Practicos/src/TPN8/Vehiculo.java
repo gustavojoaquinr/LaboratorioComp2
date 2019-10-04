@@ -7,6 +7,6 @@ public interface Vehiculo {
     void Frenar();
     int Plazas();
     public String Frenar(int cant_a, int cant_d);
-    int getvelocidad();
+    int obtenerVelocidad();
     void mostrarVelocidad();
 }
