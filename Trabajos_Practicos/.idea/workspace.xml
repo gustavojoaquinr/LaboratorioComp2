@@ -13,7 +13,34 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clases/Pila/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Clases/Pila/Pila.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#1265#1266#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1281#1282#0" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,14 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Repaso/Abstract/Planta.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Abstract/Main.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Polimorfismo/Vehiculo.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Polimorfismo/Principal.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Polimorfismo/VehiculoTurismo.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Polimorfismo/VehiculoDeportivo.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/Polimorfismo/VehiculoFurgoneta.java" />
-        <option value="$PROJECT_DIR$/src/Repaso/TF/Persona.java" />
         <option value="$PROJECT_DIR$/src/Repaso/TF/Sala.java" />
         <option value="$PROJECT_DIR$/src/Repaso/TF/ParaAcomodadores.java" />
         <option value="$PROJECT_DIR$/src/Repaso/TF/Espectador.java" />
@@ -80,10 +99,18 @@
         <option value="$PROJECT_DIR$/src/InterfaceGrafica/IGrEventos03/VentanasPrincipales.java" />
         <option value="$PROJECT_DIR$/src/InterfaceGrafica/IGrEventos03/PanelesCambioOyente.java" />
         <option value="$PROJECT_DIR$/src/InterfaceGrafica/IG01/Ventana.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Programacion2/Nodo.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Programacion2/Pila.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Programacion2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Cola/Nodo.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Cola/Cola.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Cola/Nodo1.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Pila/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Cola/Principal.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="694" />
@@ -107,6 +134,12 @@
               <item name="Trabajos_Practicos" type="b2602c69:ProjectViewProjectNode" />
               <item name="Trabajos_Practicos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trabajos_Practicos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trabajos_Practicos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,20 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeraJFrame">
-    <configuration name="AplicacionPrincipal (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceGrafica.IGfuente.AplicacionPrincipal" />
-      <module name="Trabajos_Practicos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfaceGrafica.IGfuente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="AplicacionPrincipal (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterfaceGrafica.IGrEventos02.AplicacionPrincipal" />
       <module name="Trabajos_Practicos" />
@@ -194,25 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AplicacionPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceGrafica.IGrEventos01.AplicacionPrincipal" />
-      <module name="Trabajos_Practicos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfaceGrafica.IGrEventos01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clases.Repaso.Abstract.Main" />
+      <option name="MAIN_CLASS_NAME" value="Clases.Pila.Main" />
       <module name="Trabajos_Practicos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Clases.Repaso.Abstract.*" />
+          <option name="PATTERN" value="Clases.Pila.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,20 +336,18 @@
       <item itemvalue="Application.TP3Ejercicio02" />
       <item itemvalue="Application.TP3Ejercicio03" />
       <item itemvalue="Application.TP3Ejercicio04" />
-      <item itemvalue="Application.AplicacionPrincipal" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.AplicacionPrincipal (2)" />
       <item itemvalue="Application.AplicacionPrincipal (3)" />
       <item itemvalue="Application.AplicacionPrincipal (4)" />
       <item itemvalue="Application.AplicacionPrincipal (5)" />
       <item itemvalue="Application.PrimeraJFrame" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.PrimeraJFrame" />
         <item itemvalue="Application.AplicacionPrincipal (5)" />
         <item itemvalue="Application.AplicacionPrincipal (4)" />
-        <item itemvalue="Application.AplicacionPrincipal (3)" />
         <item itemvalue="Application.AplicacionPrincipal (3)" />
       </list>
     </recent_temporary>
@@ -361,9 +366,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21048632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21352583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,68 +397,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Rep2GetSet_Encapsular/Clase1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Rep1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Cuadrilatero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Herencia/Persona.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Herencia/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Herencia/Estudiante.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/SobreEscrituraHerencia/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Polimorfismo/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -489,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/TF/Cine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/TF/Salas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -514,17 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/TF/Acomodadores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,6 +719,92 @@
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/TF/Acomodadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TFI01RECUP/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/TF/Cine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Cola.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Pila/Nodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Cola/Nodo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Pila/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Cola/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Cola/Cola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Pila/Pila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
           </folding>
         </state>
       </provider>
