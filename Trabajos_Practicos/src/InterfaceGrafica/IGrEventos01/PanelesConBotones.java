@@ -3,7 +3,6 @@ package InterfaceGrafica.IGrEventos01;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
@@ -21,7 +20,7 @@ class PanelesConBotones extends JPanel implements ActionListener{ //implementar
 
     @Override
     public void actionPerformed(ActionEvent e) { //metodo de la interface ActionListener
-        // TODO Auto-generated method stub
+
         setBackground(Color.BLUE);
     }
 

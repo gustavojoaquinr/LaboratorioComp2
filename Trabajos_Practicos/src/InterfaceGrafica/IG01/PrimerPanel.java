@@ -16,7 +16,7 @@ public class PrimerPanel extends JPanel {
 
         // PINTAR UN PANEL DE UN COLOR DETERMINADO
 
-        Color c = new Color(255, 128, 155); // creamos el color
+        Color c = new Color(255, 46, 46); // creamos el color
 
         g.setColor(c); // le damos el color
 
