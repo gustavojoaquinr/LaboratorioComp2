@@ -15,12 +15,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Clases/P2P2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/Clases/ColeccionesTF2/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -386,20 +382,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Clases/Prog2/NoDocente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clases/Prog2/Persona.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Clases/ProgriiP2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -751,6 +733,16 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TFI02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/ColeccionesTF2/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
