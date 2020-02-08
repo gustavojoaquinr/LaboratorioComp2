@@ -1,0 +1,43 @@
+package TrabajoEnGrupo;
+
+public class Profesor extends Persona{
+
+    /*Atributos*/
+    private String materia;
+
+    /*Constructores*/
+    public Profesor(){
+        super(); //Llama al constructor padre
+
+        super.setEdad(MetodosSueltos.generaNumeroAleatorio(25,50)); //llama al metodo padre
+
+        materia=Constantes.MATERIAS[MetodosSueltos.generaNumeroAleatorio(0,2)];
+    }
+
+    /*Metodos*/
+
+
+    public String getMateria() {
+        return materia;
+    }
+
+
+    public void setMateria(String materia) {
+        this.materia = materia;
+    }
+
+
+    @Override
+    public void disponibilidad() {
+
+        int prob=MetodosSueltos.generaNumeroAleatorio(0, 100);
+
+        if(prob<20){
+            super.setAsistencia(false);
+        }else{
+            super.setAsistencia(true);
+        }
+
+    }
+
+}
