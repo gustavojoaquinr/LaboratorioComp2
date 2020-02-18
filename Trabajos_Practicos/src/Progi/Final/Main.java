@@ -150,7 +150,7 @@ public class Main {
         int bonificacion=1000;
         System.out.println("\nBonifiacion");
         for (int i=0; i<12; i++){
-            System.out.println("Sueldo mes "+(i+1)+": "+meses[i+1000]);
+            System.out.println("Sueldo mes "+(i+1)+": "+meses[i]);
         }
 
 
