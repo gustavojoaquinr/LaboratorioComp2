@@ -320,15 +320,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TP3Ejercicio01" />
-      <item itemvalue="Application.TP3Ejercicio02" />
-      <item itemvalue="Application.TP3Ejercicio03" />
-      <item itemvalue="Application.TP3Ejercicio04" />
       <item itemvalue="Application.Burbuja" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.TP3Ejercicio01" />
+      <item itemvalue="Application.TP3Ejercicio02" />
+      <item itemvalue="Application.TP3Ejercicio03" />
+      <item itemvalue="Application.TP3Ejercicio04" />
     </list>
     <recent_temporary>
       <list>
