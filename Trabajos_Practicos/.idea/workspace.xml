@@ -13,7 +13,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Cuadrilatero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Programacion/Estructuras/NoLineales/ColaBusquedaAnchura.java" />
         <option value="$PROJECT_DIR$/src/Programacion/Estructuras/NoLineales/Grafo.java" />
         <option value="$PROJECT_DIR$/src/Programacion/Estructuras/NoLineales/GrafoLista.java" />
         <option value="$PROJECT_DIR$/src/Programacion/Estructuras/NoLineales/ListaSimpleDeNodos.java" />
@@ -80,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/Progi/Recup1/Main.java" />
         <option value="$PROJECT_DIR$/src/Progi/Recup2/Main.java" />
         <option value="$PROJECT_DIR$/src/Progi/Final/Main.java" />
+        <option value="$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Principal.java" />
       </list>
     </option>
   </component>
@@ -124,6 +143,21 @@
               <item name="Trabajos_Practicos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Clases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trabajos_Practicos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trabajos_Practicos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Repaso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trabajos_Practicos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trabajos_Practicos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Repaso" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejer1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +353,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1550152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -390,12 +425,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/IdeaProjects/untitled1/src/com/company/Main.java" />
-    <entry file="file://$USER_HOME$/IdeaProjects/Programacion funciones/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/IdeaProjects/untitled/src/com/company/parcial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2346" />
@@ -627,6 +656,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Cuadrilatero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Repaso/Ejer1/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        //Creamos el objeto pero sin inicializar el constructor
+        //Creamos el objeto pero sin inicializar el constructor .....
         Cuadrilatero c1;
 
         float lado1, lado2;
