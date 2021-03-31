@@ -16,6 +16,7 @@ public class Burbuja {
             arreglo[i]= sc.nextInt();
         }
 
+        //BURBUJA
         for (int i = 1; i < (arreglo.length - 1); i++) {
             for (int j=0 ; j< (arreglo.length - 1); j++) {
                 if (arreglo[j] > arreglo[j+1]){
@@ -35,7 +36,7 @@ public class Burbuja {
         for(int i=(nElem-1); i>=0; i--){
             System.out.print(arreglo[i]+" - ");
         }
-        System.out.println(" ");
+        System.out.println();
 
     }
 }

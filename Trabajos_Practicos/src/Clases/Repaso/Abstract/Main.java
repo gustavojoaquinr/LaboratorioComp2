@@ -9,9 +9,9 @@ public class Main {
 
         planta1.alimentarse();
 
-        AnimalCarnivoro animal = new AnimalCarnivoro();
+        AnimalCarnivoro animalC = new AnimalCarnivoro();
 
-        animal.alimentarse();
+        animalC.alimentarse();
 
     }
 }

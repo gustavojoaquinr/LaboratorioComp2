@@ -1,7 +1,43 @@
 package Progi.Repaso;
 
+import java.util.Scanner;
+
 public class Matrices {
     public static void main(String[] args) {
+        int matriz [][] = {{1,2,3},{4,5,6},{7,8,9}};
+
+        for(int i=0; i<3; i++){//numero filas
+            for(int j=0; j<3; j++){//numero columnas
+                System.out.println(matriz[i][j]);
+            }
+            System.out.println("");
+        }
+
+        Scanner s = new Scanner(System.in);
+        int matriz2 [][], nFilas, nCol;
+
+        System.out.println("Digite numero de filas");
+        nFilas = s.nextInt();
+        System.out.println("Digite numero de columnas");
+        nCol = s.nextInt();
+
+        matriz2 = new int[nFilas][nCol];
+
+        System.out.println("Digite la matriz: ");
+        for(int i=0; i<nFilas; i++){
+            for(int j=0; j<nCol; j++){
+                System.out.print("Matriz ["+i+"]["+j+"]: ");
+                matriz2[i][j] = s.nextInt();
+            }
+        }
+        System.out.println("\nMATRIZ: ");
+        for(int i=0; i<nFilas; i++){//numero filas
+            for(int j=0; j<nCol; j++){//numero columnas
+                System.out.print(matriz2[i][j]);
+            }
+            System.out.println("");
+        }
+
 
         // definicion de matriz
         int[][] matriz1 = new int[4][7];

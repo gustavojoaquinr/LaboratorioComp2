@@ -9,8 +9,8 @@ public class Principal {
         misVehiculos[2] = new VehiculoDeportivo("Toyota","T6","aab365",500);
         misVehiculos[3] = new VehiculoFurgoneta("Renault","Sandero", "asd562",2000);
 
-        for(Vehiculo vehiculos: misVehiculos){
-            System.out.println(vehiculos.mostrarDatos());
+        for(Vehiculo i: misVehiculos){
+            System.out.println(i.mostrarDatos());
         }
     }
 }

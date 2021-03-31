@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static int indiceCocheMasBarato(Vehiculo coches[]){
+    public static int indiceCocheMasBarato(Vehiculo coches[]){ //no hace falta crear obejtos ahi abajo
         double precio;
         int indice = 0;
 
@@ -48,6 +48,7 @@ public class Main {
             coches[i] = new Vehiculo(marca,modelo,precio);
         }
 
+        //*
         indiceBarato = indiceCocheMasBarato(coches);
 
         System.out.println("\nEl coche mas barato es: ");
