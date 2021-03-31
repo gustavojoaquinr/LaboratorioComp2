@@ -18,7 +18,6 @@ public class Vehiculo {
     public String getModelo(){
         return modelo;
     }
-
     public String getMatricula(){
         return matricula;
     }

@@ -6,6 +6,7 @@ public class Main {
 
     public static int[] precios= {90,80,75,105};
     public static void main(String[] args) {
+        // TODO Auto-generated method stub
         double ganancia=0;
         int codigoCerveza;
         double litros;

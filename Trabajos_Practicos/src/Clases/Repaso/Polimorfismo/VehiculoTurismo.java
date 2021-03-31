@@ -18,5 +18,4 @@ public class VehiculoTurismo extends Vehiculo {
         return super.mostrarDatos()+"Numero de Puertas: "+numPuertas+"\n";
 
     }
-    //return "Marca: "+marca+"\nModelo: "+modelo+"\nMatricula: "+matricula+"\nNumero de Puertas: "+numPuertas;
 }

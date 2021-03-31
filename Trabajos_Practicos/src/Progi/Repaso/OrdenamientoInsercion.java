@@ -15,7 +15,6 @@ public class OrdenamientoInsercion {
             arreglo[i]= sc.nextInt();
         }
 
-        //ORDENAMIENTO POR INSERCION
         for(int i=0; i<nElem; i++){
             pos = i;
             aux = arreglo[i];

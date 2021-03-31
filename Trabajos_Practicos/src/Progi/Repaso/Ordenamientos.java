@@ -7,6 +7,7 @@ public class Ordenamientos {
     public static void main(String[] args) {
         burbuja();
 
+        insercion();
 
         seleccion();
     }
@@ -18,11 +19,10 @@ public class Ordenamientos {
 
         for (int i = 1; i <= arreglo.length; i++) {
             for (int j=0 ; j< arreglo.length - 1; j++) {
-                if (arreglo[j] > arreglo[j+1]) {
+                if (arreglo[j] > arreglo[j+1])
                     aux = arreglo[j];
-                    arreglo[j] = arreglo[j + 1];
-                    arreglo[j + 1] = aux;
-                }
+                arreglo[j] = arreglo[j+1];
+                arreglo[j + 1] = aux;
             }
         }
     }
