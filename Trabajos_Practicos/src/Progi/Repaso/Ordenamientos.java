@@ -10,6 +10,8 @@ public class Ordenamientos {
         insercion();
 
         seleccion();
+
+
     }
 
     public static void burbuja() {
@@ -26,6 +28,8 @@ public class Ordenamientos {
             }
         }
     }
+
+
 
     public static void insercion()
     {
